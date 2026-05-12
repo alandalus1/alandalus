@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact Us",
+    "getQuote": "Get Quote"
+  },
+  "home": {
+    "heroTitle": "Premium Offset Printing <br/> Services in Doha, Qatar",
+    "heroSubtitle": "High-quality commercial printing solutions for businesses across Qatar. Trust our expertise for precision, speed, and elegance.",
+    "getInstantQuote": "Get Instant Quote",
+    "exploreServices": "Explore Services",
+    "ourPremiumServices": "Our Premium Services",
+    "ourPremiumServicesDesc": "Comprehensive commercial printing for all your business needs.",
+    "craftedForExcellence": "Crafted for Excellence",
+    "craftedDesc": "We blend traditional printing craftsmanship with modern technology to deliver stunning results. From intricate gold foiling to crisp letterheads, every print is a masterpiece.",
+    "feature1": "Premium Paper Stocks",
+    "feature2": "Precision Die-Cutting",
+    "feature3": "Luxury Gold & Silver Foiling",
+    "feature4": "Flawless Color Matching",
+    "findUs": "Find Us on Salwa Road",
+    "findUsDesc": "Visit our Doha location for consultations and sample viewing."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Tradition Meets Modern Printing Technology",
+    "ourStory": "Our Story",
+    "p1": "Located in the heart of Doha on Salwa Road, Al Andalus Printing Press has been serving the Qatari business community with premium printing solutions for years.",
+    "p2": "We understand that your printed materials are a direct reflection of your brand. That is why we invest heavily in state-of-the-art offset machinery and highly skilled craftsmen to ensure every business card, paper bag, and invoice book we produce meets the highest international standards.",
+    "ourMission": "Our Mission",
+    "missionDesc": "To empower local and international businesses in Qatar through stunning, high-quality print media that builds trust and elevates brand identity."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Printing Solutions",
+    "s1Title": "Paper Bag Printing",
+    "s1Desc": "High-quality custom paper shopping bags for retail and luxury brands.",
+    "s2Title": "Paper Box Printing",
+    "s2Desc": "Custom product packaging, rigid boxes, and folding cartons.",
+    "s3Title": "Premium Business Cards",
+    "s3Desc": "Make a lasting impression with foiled, embossed, and die-cut cards.",
+    "s4Title": "Letterhead Printing",
+    "s4Desc": "Professional corporate letterheads on premium textured paper stocks.",
+    "s5Title": "Invoice & Receipt Books",
+    "s5Desc": "Carbonless NCR books for invoices, receipts, and delivery notes.",
+    "s6Title": "Company Stamps",
+    "s6Desc": "Custom self-inking and traditional rubber stamps for official use.",
+    "s7Title": "Die Cutting & Foiling",
+    "s7Desc": "Specialty finishing services including metallic foiling and custom shapes.",
+    "s8Title": "Book Binding",
+    "s8Desc": "Professional binding for catalogs, menus, and company profiles."
+  },
+  "portfolio": {
+    "title": "Our Portfolio",
+    "subtitle": "A Selection of Our Finest Work",
+    "all": "All",
+    "packaging": "Packaging",
+    "stationery": "Stationery",
+    "books": "Books",
+    "item1": "Luxury Retail Bags",
+    "item2": "Foiled Business Cards",
+    "item3": "Corporate Invoice Books",
+    "item4": "Product Packaging",
+    "item5": "Executive Letterheads",
+    "item6": "Company Profiles"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's Discuss Your Printing Needs",
+    "infoTitle": "Get In Touch",
+    "infoDesc": "Ready to start your next printing project? Contact us for a free quote or visit our press on Salwa Road.",
+    "phone": "Phone / WhatsApp",
+    "email": "Email Address",
+    "location": "Location",
+    "formTitle": "Send Us a Message",
+    "name": "Your Name",
+    "emailLabel": "Your Email",
+    "phoneLabel": "Phone Number",
+    "serviceLabel": "Service Required",
+    "messageLabel": "Message Details",
+    "sendButton": "Send Message"
+  },
+  "footer": {
+    "desc": "Premium offset printing and commercial packaging solutions in Doha, Qatar. Excellence in every print.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Info",
+    "rights": "All rights reserved."
+  }
+}
